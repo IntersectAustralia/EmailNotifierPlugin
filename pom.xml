@@ -71,4 +71,17 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>plugin-EmailNotifier-snapshot</id>
+			<name>REdbox Email Notifier Plugin Snapshots</name>
+			<url>https://github.com/IntersectAustralia/EmailNotifierPlugin/raw/master/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>plugin-EmailNotifier</id>
+			<name>REdbox Email Notifier Plugin Releases</name>
+			<url>https://github.com/IntersectAustralia/EmailNotifierPlugin/raw/master/releases</url>
+		</repository>
+	</distributionManagement>
 </project>

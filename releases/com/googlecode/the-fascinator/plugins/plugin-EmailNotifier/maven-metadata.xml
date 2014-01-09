@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.the-fascinator.plugins</groupId>
+  <artifactId>plugin-EmailNotifier</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20140109235856</lastUpdated>
+  </versioning>
+</metadata>
